@@ -14,15 +14,15 @@ import UIKit
 
 
 
-//Declaring a function:
+//Declaring a function that prints "Hello, Jason":
 
 
 
-//Creating a class:
+//Creating a Car class with year, make and model properties:
 
 
 
-//Creating an Enumeration:
+//Creating an Enumeration for car color (maybe 5-6 colors):
 
 
 
